@@ -6,15 +6,15 @@ Esan-PersonalAI
 
 > # **Content** :exclamation:
 
-## 1. Basic Linux Command :point_right: [Click here](https://github.com/WiratchawaKannika/AIprototype65/blob/main/lecture/CommandLineUbuntu.md) 
+## 1. AI-Powered App for Bioinformaticians :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mRNA) 
 
 ---
 
-## 2. Convolutional Neural Network: CNN :point_right: [Click here](https://github.com/WiratchawaKannika/AIprototype65/blob/main/lecture/NeuralNetwork.md)
+## 2. Learning from Biosignals :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Ultrasound)
 
 ---
 
-## 3. การสร้าง Neural Network ด้วย Tensorflow Sequential API :point_right: [Code](https://github.com/WiratchawaKannika/AIprototype65/blob/main/Tensorflow_(network)01.ipynb) 
+## 3. AI for Detecting Users with Mental Disorders from Social media: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mental_illlness) 
 
 - การสร้าง Neural Network ด้วย Tensorflow Sequential API:
     * Sequentail - สร้างง่าย แต่ได้ network ธรรมดา (ไม่ซับซ้อน) วิ่งเป็นเส้นตรง
@@ -27,24 +27,24 @@ Esan-PersonalAI
 
 ---
 
-## 4. Fine-tuning a Pretrained model :point_right: [Click here](https://github.com/WiratchawaKannika/AIprototype65/blob/main/lecture/FineTuning.md) 
+## 4. AI for detecting code plagiarism :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Code_Detector) 
 
 - Freeze, Unfreeze layers 
 - Dropout layers
 
 ---
 
-## 5. การเขียน Python Scrip :point_right: [Code](https://github.com/WiratchawaKannika/AIprototype65/blob/main/python_script_101.py) และการเขียน subprocess ในไฟล์ Python .py สำหรับสั่งโปรแกรมอื่นทำงาน บน Terminal :point_right: [Code](https://github.com/WiratchawaKannika/AIprototype65/blob/main/python_subprocess.py) 
+## 5. BiTNet: AI for diagnosing ultrasound image  :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Ultrasound) 
 
 ---
 
-## 6. Flask: Web App + Web Service + Web Page :point_right: [Click here](https://github.com/WiratchawaKannika/AIprototype65/blob/main/lecture/flask.md) 
+## 6. AI for arresting criminals :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Crime) 
 
-- :point_right: **[postrequests.py](https://github.com/WiratchawaKannika/AIprototype65/blob/main/postrequests.py)** 
+<!-- - :point_right: **[postrequests.py](https://github.com/WiratchawaKannika/AIprototype65/blob/main/postrequests.py)** 
 - :point_right: **[testflask.py](https://github.com/WiratchawaKannika/AIprototype65/blob/main/testflask.py)**
 - :point_right: **[Home .html templates](https://github.com/WiratchawaKannika/AIprototype65/blob/main/templates/home.html)**
 
 - :point_right: **[ WebApp Repositories ](https://github.com/WiratchawaKannika/WebApp_aiprototype)** 🤗🤗
 
 
----
+--- -->
