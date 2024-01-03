@@ -1,6 +1,6 @@
 Esan-PersonalAI
 # AI-Prototype
-> :star2: [บอลตัน อาทิตย์ เดวิส] 
+> :star2: บอลตัน อาทิตย์ เดวิส 
 
 ---
 
