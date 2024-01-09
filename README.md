@@ -16,14 +16,14 @@ Esan-PersonalAI
 
 ## 3. AI for Detecting Users with Mental Disorders from Social media: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mental_illlness) 
 
-- การสร้าง Neural Network ด้วย Tensorflow Sequential API:
+<!-- - การสร้าง Neural Network ด้วย Tensorflow Sequential API:
     * Sequentail - สร้างง่าย แต่ได้ network ธรรมดา (ไม่ซับซ้อน) วิ่งเป็นเส้นตรง
     * Functional - สร้างยากกว่า Sequentail (ซับซ้อนกว่า) ได้ network ที่แปลกกว่า / ปรับเส้นทางให้มีความซับซ้อนได้
     * Subclassing - ยากสุด แต่สามารถแก้ไขได้ตามที่ต้องการ 
 
 - Data Pipeline
     - Download and prepare the *CIFAR10 dataset*
-    - การโหลดข้อมูล Link: https://www.tensorflow.org/guide/data
+    - การโหลดข้อมูล Link: https://www.tensorflow.org/guide/data -->
 
 ---
 
