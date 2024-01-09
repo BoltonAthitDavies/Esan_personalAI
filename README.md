@@ -29,8 +29,8 @@ Esan-PersonalAI
 
 ## 4. AI for detecting code plagiarism :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Code_Detector) 
 
-- Freeze, Unfreeze layers 
-- Dropout layers
+<!-- - Freeze, Unfreeze layers 
+- Dropout layers -->
 
 ---
 
