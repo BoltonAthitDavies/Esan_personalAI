@@ -51,7 +51,7 @@ Esan-PersonalAI
 > ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/Esan_crime.ipynb)
 
 ## My video introduction
-[![Watch the video](http://img.youtube.com/vi/jr9TOcLgg94/1.jpg)](https://youtu.be/jr9TOcLgg94)
+[![Watch the video](http://img.youtube.com/vi/jr9TOcLgg94/default.jpg)](https://youtu.be/jr9TOcLgg94)
 
 
 <!-- - :point_right: **[postrequests.py](https://github.com/WiratchawaKannika/AIprototype65/blob/main/postrequests.py)** 
