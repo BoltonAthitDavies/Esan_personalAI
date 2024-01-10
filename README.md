@@ -49,7 +49,7 @@ Esan-PersonalAI
 ## 6. AI for arresting criminals
 > ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/note.pdf) 
 > ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/Esan_crime.ipynb)
-
+---
 ## My video introduction :movie_camera:
 [![Watch the video](http://img.youtube.com/vi/jr9TOcLgg94/0.jpg)](https://youtu.be/jr9TOcLgg94)
 
