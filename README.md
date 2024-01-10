@@ -11,8 +11,9 @@ Esan-PersonalAI
 > ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mRNA/Copy_of_GMM.ipynb) 
 ---
 
-## 2. Learning from Biosignals :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Ultrasound)
-
+## 2. Learning from Biosignals
+> ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mRNA/notes) 
+> ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mRNA/Copy_of_GMM.ipynb) 
 ---
 
 ## 3. AI for Detecting Users with Mental Disorders from Social media: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mental_illlness) 
