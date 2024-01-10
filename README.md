@@ -12,13 +12,13 @@ Esan-PersonalAI
 ---
 
 ## 2. Learning from Biosignals
-> ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/biosignal/note.pdf) 
-> ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/biosignal/exercise/model.py) 
+> ### 2.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/biosignal/note.pdf) 
+> ### 2.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/biosignal/exercise/model.py) 
 ---
 
 ## 3. AI for Detecting Users with Mental Disorders from Social media
-> ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mental_illlness/note.pdf) 
-> ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mental_illlness/ESAN_NLP_mental_illness.ipynb)  
+> ### 3.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mental_illlness/note.pdf) 
+> ### 3.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mental_illlness/ESAN_NLP_mental_illness.ipynb)  
 
 <!-- - การสร้าง Neural Network ด้วย Tensorflow Sequential API:
     * Sequentail - สร้างง่าย แต่ได้ network ธรรมดา (ไม่ซับซ้อน) วิ่งเป็นเส้นตรง
@@ -32,8 +32,8 @@ Esan-PersonalAI
 ---
 
 ## 4. AI for detecting code plagiarism
-> ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Code_Detector/note.pdf) 
-> ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Code_Detector/Esan_CodeCloneDetection_Workshop.ipynb)  
+> ### 4.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Code_Detector/note.pdf) 
+> ### 4.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Code_Detector/Esan_CodeCloneDetection_Workshop.ipynb)  
 
 <!-- - Freeze, Unfreeze layers 
 - Dropout layers -->
@@ -41,14 +41,14 @@ Esan-PersonalAI
 ---
 
 ## 5. BiTNet: AI for diagnosing ultrasound image  
-> ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Ultrasound/note.pdf) 
-> ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Ultrasound/Esan_Ultrasound.ipynb)  
+> ### 5.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Ultrasound/note.pdf) 
+> ### 5.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Ultrasound/Esan_Ultrasound.ipynb)  
 
 ---
 
 ## 6. AI for arresting criminals
-> ### 1.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/note.pdf) 
-> ### 1.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/Esan_crime.ipynb)
+> ### 6.1 Link for note :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/note.pdf) 
+> ### 6.2 Link for Exercise :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/Crime/Esan_crime.ipynb)
 ---
 ## My video introduction :movie_camera:
 [![Watch the video](http://img.youtube.com/vi/jr9TOcLgg94/0.jpg)](https://youtu.be/jr9TOcLgg94)
