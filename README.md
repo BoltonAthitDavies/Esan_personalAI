@@ -7,8 +7,8 @@ Esan-PersonalAI
 > # **Content** :exclamation:
 
 ## 1. AI-Powered App for Bioinformaticians 
-# Link for note:point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mRNA/notes) 
-# Link for Exercise:point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mRNA/Copy_of_GMM.ipynb) 
+### Link for note:point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/mRNA/notes) 
+### Link for Exercise:point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/blob/main/mRNA/Copy_of_GMM.ipynb) 
 ---
 
 ## 2. Learning from Biosignals :point_right: [Click here](https://github.com/BoltonAthitDavies/Esan_personalAI/tree/main/Ultrasound)
