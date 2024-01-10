@@ -8,7 +8,7 @@ import timeit
 
 from logger import get_logger
 
-
+########################################### Homework ###################################################################################################
 def simple_model():
     model = nn.Sequential(
         nn.Conv1d(in_channels=1, out_channels=128, kernel_size=50, stride=25, bias=False, padding=2),
@@ -35,7 +35,7 @@ def simple_model():
         nn.Linear(in_features=256, out_features=5, bias=False)
     )
     return model
-
+########################################################################################################################################################
 
 class SimpleModel:
 
@@ -153,5 +153,5 @@ if __name__ == '__main__':
     print(f"fake_x: {fake_x.shape}")
     y_pred = model(fake_x).type(torch.LongTensor)
     print(f"y_pred: {y_pred.shape}")
-    print(len(os.listdir("C:\\Users\\User\\Esan_personalAI\\biosignal\\data\\sleepedf\\sleep-cassette")))
+    print(len(os.listdir("C:\\Users\\User\\Esan_personalAI\\biosignal\\exercise\\data\\sleepedf\\sleep-cassette")))
     print('Successfully run the model')
